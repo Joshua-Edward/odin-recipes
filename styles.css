@@ -6,3 +6,31 @@ h1 {
   text-align: center;
 }
 
+img.plated {
+  width: 1200px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  text-align: center;
+  font-style: italic;
+  color: orangered;
+  background-color: aqua;
+  font-size: 20px;
+}
+
+ul {
+  font-style: bold;
+  color: black;
+  background-color: yellow;
+  font-size: 16px;
+}
+
+ol {
+  color: red;
+  background-color: aquamarine;
+  font-size: 20px;
+}
